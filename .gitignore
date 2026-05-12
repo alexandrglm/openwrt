@@ -6,8 +6,11 @@
 /.config
 /.config.old
 /.toolchain_build_ver
+/00_01_Cambios_Realizados
+/00_02_debubbing
 /bin
 /build_dir
+/build_logs
 /staging_dir
 /tmp
 /logs
@@ -22,7 +25,6 @@
 /llvm-bpf*
 key-build*
 private-key.pem
-public-key.pem
 *.orig
 *.rej
 *~
