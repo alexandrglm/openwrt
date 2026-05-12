@@ -3,8 +3,6 @@
 .*.swp
 /env
 /dl
-.config
-.config.old
 /.toolchain_build_ver
 /00_01_Cambios_Realizados
 /00_02_debubbing
